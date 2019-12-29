@@ -1,0 +1,26 @@
+---------------------->>>>> Easy To learn Git <<<<<-----------------------
+
+=====> 8 Basic Commands Of GIT.
+
+-> 1) git init
+
+
+--> 2) git add -A or git add "File Name"
+
+
+---> 3) git status 
+
+
+----> 4) git commit -m "messege"
+
+
+----->> 5) git remote add origin "repoName"
+
+
+------>> 6) git push origin master
+
+
+------->> 7) git clone "repoName"
+
+
+-------->> 8) git pull origin master
